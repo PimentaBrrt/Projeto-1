@@ -5,7 +5,7 @@ Repositório contendo os arquivos do exercício 1 da matéria "Programação Ori
 
 - [Guilherme Orlandi de Oliveira](https://github.com/carrico05/)
 - [Luiz Felipe Pimenta Berrettini](https://github.com/PimentaBrrt/)
-- [Luiz Fernando Pazdziora Costa]()
+- [Luiz Fernando Pazdziora Costa](https://github.com/LuizPazdziora)
 
 ## Diagrama de Classes do Banco
 
