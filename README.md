@@ -9,6 +9,7 @@ Repositório contendo os arquivos do exercício 1 da matéria "Programação Ori
 
 ## Diagrama de Classes do Banco
 
+``` mermaid
 classDiagram
     class Conta {
         - String id
@@ -40,6 +41,7 @@ classDiagram
     Conta <|-- ContaPoupanca
     Cliente <|-- PessoaFisica
     Cliente <|-- PessoaJuridica
+```
 
 ## Help
 
