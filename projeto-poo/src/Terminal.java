@@ -215,7 +215,7 @@ public class Terminal {
         String painel = "";
         painel += "\n  1. Criar cliente";
         painel += "\n  2. Listar clientes";
-        painel += "\n  3. Selectionar cliente";
+        painel += "\n  3. Selecionar cliente";
         painel += "\n  4. Criar conta";
         painel += "\n  5. Listar contas do cliente";
         painel += "\n  6. Selecionar conta";
